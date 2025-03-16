@@ -1,5 +1,4 @@
 <h1 align="center">Hi there, I'm David 👋</h1>
----
 
 ### 👨‍💻 **About Me**
 - 🎓 **Second-year** Data Science undergrad (Class of '27)
