@@ -1,10 +1,6 @@
 <h1 align="center">Hi there, I'm [David] 👋</h1>
 <h3 align="center">Data Science Student | ML & AI Explorer</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Data+Science+Undergrad+%7C+ML+Enthusiast;Building+AI+%7C+Loving+Open+Source;Always+Learning+New+Things+%F0%9F%93%96" />
-</p>
-
 ---
 
 ### 👨‍💻 **About Me**
@@ -39,5 +35,4 @@
 ### 📊 **GitHub Stats**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=david-boules&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=david-boules&theme=radical" width="48%" />
 </p>
