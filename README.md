@@ -3,7 +3,7 @@
 ### 👨‍💻 **About Me**
 - 🎓 **Second-year** Data Science undergrad (Class of '27)
 - 🔎 **Currently Exploring** Machine Learning, Deep Learning, and Generative AI
-- 📊 **Currently Working on** Polyglot: AI Language Companion
+- 📊 **Currently Working on** Smart Leaf: Multi-Crop Disease Detection
 - ✍️ **Writing** on Medium about my AI & ML experiences
 - 🚀 **Love** collaborating on open-source & real-world AI & ML projects
 
