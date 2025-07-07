@@ -1,9 +1,8 @@
 <h1 align="center">Hi there, I'm David 👋</h1>
 
 ### 👨‍💻 **About Me**
-- 🎓 **Second-year** Data Science undergrad (Class of '27)
-- 🔎 **Currently Exploring** Machine Learning, Deep Learning, and Generative AI
-- 📊 **Currently Working on** Smart Leaf: Multi-Crop Disease Detection
+- 🎓 **Third-year** Data Science undergrad (Class of '27)
+- 🔎 **Currently Exploring** Deep Learning, and Generative AI
 - ✍️ **Writing** on Medium about my AI & ML experiences
 - 🚀 **Love** collaborating on open-source & real-world AI & ML projects
 
