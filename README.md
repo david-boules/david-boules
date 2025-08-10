@@ -2,11 +2,15 @@
 
 ### 👨‍💻 **About Me**
 - 🎓 **Third-year** Data Science undergrad (Class of '27)
-- 🔎 **Currently Exploring** Deep Learning, and Generative AI
-- ✍️ **Writing** on Medium about my AI & ML experiences
+- 🔎 **Currently Exploring** Time Series Data
+- ✍️ **Writing** on Medium about my AI & ML experiences sporadically
 - 🚀 **Love** collaborating on open-source & real-world AI & ML projects
+- 🎥 **Documenting** my Data/AI journey on YouTube @ Data With David
 
 ---
+
+### 📎 **Link to my YouTube Channel**
+https://www.youtube.com/@datawdavid
 
 ### 🔧 **Tech Stack**
 
